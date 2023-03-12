@@ -3,7 +3,7 @@
 ## FIO Haritonov Nikita Andreevich
 ## Lab Repository
 
-!(/imageRep.png)
+![image](/imageRep.png)
 
 1. First item
 2. Second item
